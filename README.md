@@ -1,2 +1,2 @@
 # DoIt-app
-CRUD Project about Meteor.Js
+Todo list CRUD Project about Meteor.Js
